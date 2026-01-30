@@ -2,7 +2,7 @@
 
 ### Cytometry In R
 
-- Location: Montral, QC, Canada
+- Location: Montreal, QC, Canada
 
 - My Favorite Fluorophore/Metal-Isotope: Alexa Fluor 405
 
